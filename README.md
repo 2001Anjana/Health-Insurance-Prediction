@@ -35,7 +35,7 @@ This project implements a neural network to predict the health insurance costs o
    ```
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run insurance_app.py
    ```
 4. Enter the required details such as age, BMI, and categorical values like smoking status, gender, and region to get a predicted insurance charge.
 
